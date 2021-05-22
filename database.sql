@@ -1,0 +1,13 @@
+CREATE DATABASE terampil;
+
+CREATE TABLE users(
+    id SERIAL PRIMARY KEY,
+    fullname VARCHAR(35) NOT NULL,
+    job_id INT NOT NULL,
+    email VARCHAR(30) UNIQUE NOT NULL
+);
+
+CREATE TABLE jobs(
+    id INT PRIMARY KEY,
+    name VARCHAR(35) NOT NULL
+);

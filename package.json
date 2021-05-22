@@ -1,0 +1,23 @@
+{
+  "name": "test_terampil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oddOrEven.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusumahadi16/test_Terampil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusumahadi16/test_Terampil/issues"
+  },
+  "homepage": "https://github.com/kusumahadi16/test_Terampil#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}

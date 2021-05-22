@@ -1,0 +1,22 @@
+Javascript memiliki tipe data:
+1. Number
+Contoh:     let angka = 10, angkaa = 10.5;
+
+2. String
+Contoh:     let kata = 'Menggunakan petik satu', kataa = "Menggunakan petik dua";
+
+3. Boolean
+Contoh:     let benar = True, salah = False;
+
+4. Object
+Contoh:     let obj = {
+                        nama : 'Rizky Hadikusumah,
+                        umur : 24,
+                        sarjana : false
+                        };
+
+5. Function
+Contoh:     let angkaAcak = Math.random();
+
+6. Undefined
+Contoh:     let u;
